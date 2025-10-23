@@ -8,9 +8,10 @@ di Torino (Spoke 4) and funded by the European Union – NextGenerationEU as par
 and networks, to make Italy more smART” (RESTART), PE00000001.
 
 The research activities within the COBS4FUN project were developed entirely by a research team
-at the University of Messina, under the supervision of Prof. Giuseppe Campobello, who acted as the
-Principal Investigator.
+at the University of Messina, Messina, Italy, under the supervision of Prof. Giuseppe Campobello, who acted as the Principal Investigator.
 
 The main objective of COBS4FUN was to develop new formats and compression techniques for the
 efficient encoding and transmission of biometric signals, with a strong emphasis on their applicability
 to future network environments, including Metaverse and Digital Twins use cases.
+
+The results will be released at the end of the project in accordance with the disclosure policies established by the Spoke and the RESTART Foundation that funded the project.
